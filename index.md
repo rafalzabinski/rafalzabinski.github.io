@@ -8,7 +8,7 @@
 <img src="images/map.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[What is up NYC?](https://github.com/rafalzabinski/whatisup)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
