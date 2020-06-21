@@ -9,7 +9,7 @@
 
 ---
 [What is up NYC?](https://github.com/rafalzabinski/whatisup)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/satellite.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
