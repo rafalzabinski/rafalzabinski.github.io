@@ -8,7 +8,8 @@
 <img src="images/map.png?raw=true"/>
 
 ---
-[What is up NYC?](https://github.com/rafalzabinski/whatisup)
+[What is up NYC? - Repository](https://github.com/rafalzabinski/whatisup)
+[What is up NYC? - Working APP] (https://rafalzabinski.github.io/whatisup/)
 <img src="images/satellite.png?raw=true"/>
 
 ---
